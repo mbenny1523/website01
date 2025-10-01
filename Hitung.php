@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Hitung Kubus - Reza Rahardian</title>
+    <title>Hitung Kubus</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
